@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: white;
     margin: 60px auto;
     width: 80%;
 }
@@ -21,16 +21,16 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+h2 {
     font-size: 1.5em;
-    line-height: 1.4em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.2em;
+    line-height: 1.1em;
     color: #333;
 }
 footer {
